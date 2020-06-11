@@ -1,0 +1,5 @@
+/home/vsvydenko/Downloads/quickstart/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/JaxRsApplication.java
+/home/vsvydenko/Downloads/quickstart/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/SimpleHealthCheck.java
+/home/vsvydenko/Downloads/quickstart/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/RootResource.java
+/home/vsvydenko/Downloads/quickstart/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/DatabaseConnectionHealthCheck.java
+/home/vsvydenko/Downloads/quickstart/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/DataHealthCheck.java

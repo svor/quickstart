@@ -1,0 +1,10 @@
+#Thu Jun 11 16:11:19 EEST 2020
+/home/vsvydenko/Downloads/quickstart/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/DataHealthCheck.java=1591880935000
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/home/vsvydenko/Downloads/quickstart/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/JaxRsApplication.java=1591880935000
+/home/vsvydenko/Downloads/quickstart/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/DatabaseConnectionHealthCheck.java=1591880935000
+/home/vsvydenko/Downloads/quickstart/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/RootResource.java=1591880935000
+/home/vsvydenko/Downloads/quickstart/microprofile-health/src/test/java/org/wildfly/quickstarts/microprofile/health/MicroProfileHealthIT.java=1591880935000
+/home/vsvydenko/Downloads/quickstart/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/SimpleHealthCheck.java=1591880935000
+/home/vsvydenko/Downloads/quickstart/microprofile-health/src/main/resources/META-INF/microprofile-config.properties=1591880935000
+configuration*?=92FCC83920F8D0E453245E1D09D49DECC855E573
